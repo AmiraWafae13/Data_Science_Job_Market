@@ -240,14 +240,5 @@ data-analyst-job-market/
 
 ## ⭐ Final Thought
 
-This project started as a SQL practice project, but it became more than that for me.
-
-It helped me connect **SQL, databases, data analysis, and the real job market** — and gave me a better idea of where I want to take my data career next.
+What started as a SQL practice project helped me connect **SQL, databases, data analysis, and the real job market** — and gave me a clearer direction for what to learn next.
 =======
-[SQL_queries folder](/Data_Science_Job_Market/SQL_queries/)
-# Background
-# Tools I Used 
-# The Analysis
-# What I Learned
-# Conclusions
->>>>>>> 4ab45fdcc4c5963642b5ed7adc45b25db09a3c60
