@@ -6,6 +6,7 @@ a project build with SQL to analyze the top_paying roles and skills from a datas
 A SQL project exploring the 2023 data analyst job market to find the highest-paying roles, most in-demand skills, and skills with strong salary potential.
 
 SQL queries ?  check them out here : 
+<<<<<<< HEAD
     [SQL_queries folder](/Data_Science_Job_Market/SQL_queries/)
 # 🎯 Questions I Wanted to Answer 
 * What are the highest-paying data analyst jobs?
@@ -242,3 +243,11 @@ data-analyst-job-market/
 This project started as a SQL practice project, but it became more than that for me.
 
 It helped me connect **SQL, databases, data analysis, and the real job market** — and gave me a better idea of where I want to take my data career next.
+=======
+[SQL_queries folder](/Data_Science_Job_Market/SQL_queries/)
+# Background
+# Tools I Used 
+# The Analysis
+# What I Learned
+# Conclusions
+>>>>>>> 4ab45fdcc4c5963642b5ed7adc45b25db09a3c60
